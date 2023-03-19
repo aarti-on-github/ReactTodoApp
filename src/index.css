@@ -1,0 +1,14 @@
+
+body{
+    background-color:#be56b69e;
+}
+input[type="text"]{
+    background-color: transparent;
+    border-color: black;
+    
+}
+input[type="text"]:focus{
+    background-color: transparent;
+    border-color: black;
+
+}
